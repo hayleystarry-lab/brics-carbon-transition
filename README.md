@@ -27,7 +27,7 @@ The materials in this repository are intended to support the reproduction and ve
 
 ### 2. Data
 
-The analysis uses publicly available data from the World Bank's World Development Indicators (WDI)for Brazil, Russia, India, China, and South Africa over the period 2000–2024.
+The analysis uses publicly available data from the World Bank's World Development Indicators (WDI) for Brazil, Russia, India, China, and South Africa over the period 2000–2024.
 
 The repository provides:
 
